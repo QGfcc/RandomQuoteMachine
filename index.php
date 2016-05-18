@@ -29,10 +29,10 @@
             .thumbnail {
                 padding: 30px;
             }
-            body footer {
+            body > footer {
                 color: black;
             }
-            body footer a {
+            body > footer a {
                 /*font-weight: bold;*/
                 text-decoration: underline;
                 color: black;
